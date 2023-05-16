@@ -9,7 +9,7 @@ public class AddSeries {
 			total2=total1+total2;
 			
 		}
-		System.out.println(total2);
+		System.out.println("the total of entire series"+total2);
 	}
 
 }
